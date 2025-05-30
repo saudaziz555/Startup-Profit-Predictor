@@ -25,7 +25,6 @@ This application uses a Linear Regression model to predict a startup's profit ba
 ![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)
 
 
-```
 
 ## Usage
 
