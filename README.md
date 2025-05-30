@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Dataset source: [50 Startups Data](https://www.kaggle.com/datasets/farhanmd29/50-startups)
 - Built with [Streamlit](https://streamlit.io/)
-- Created by [Your Name]
+- Created by [Saud Alswaeh]
 
 ## Contact
 
