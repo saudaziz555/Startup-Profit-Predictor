@@ -22,9 +22,7 @@ This application uses a Linear Regression model to predict a startup's profit ba
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)
-
-
+![WhatsApp Image 2025-05-31 at 01 31 20_49118bd2](https://github.com/user-attachments/assets/7a878485-98ab-4973-a501-2a996501fbee)
 
 ## Usage
 
@@ -33,36 +31,6 @@ This application uses a Linear Regression model to predict a startup's profit ba
 3. **Calculate Profit**: Get profit predictions and visualizations
 4. **Explore Analytics**: Navigate through the different tabs to explore the data and predictions
 5. **Download Results**: Export the predictions to Excel for further analysis
-
-## Data Format
-
-To use your own data, make sure your Excel file has the following columns:
-- R&D Spend
-- Administration
-- Marketing Spend
-- State
-- Profit
-
-## Model Details
-
-- **Algorithm**: Linear Regression
-- **Features**: R&D Spend, Administration, Marketing Spend
-- **Target**: Profit
-- **Performance Metrics**: R², MSE, RMSE, MAE, and MAPE
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- Dataset source: [50 Startups Data](https://www.kaggle.com/datasets/farhanmd29/50-startups)
-- Built with [Streamlit](https://streamlit.io/)
-- Created by [Saud Alswaeh]
 
 ## Contact
 
