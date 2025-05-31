@@ -3,3 +3,8 @@ pandas
 numpy
 scikit-learn
 openpyxl
+matplotlib
+seaborn
+joblib
+plotly
+xlsxwriter
