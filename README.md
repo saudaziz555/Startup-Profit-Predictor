@@ -34,4 +34,4 @@ This application uses a Linear Regression model to predict a startup's profit ba
 
 ## Contact
 
-For any inquiries, please open an issue on this repository or contact [salswaeh@gmail.com]. 
+contact [salswaeh@gmail.com]. 
